@@ -1,3 +1,14 @@
+/*   
+Theme Name: Josh's Wordpress Site
+Theme URI: http://joshwhitkin.com
+Description: A style-free theme to get you started on an HTML5-based Wordpress theme of your own.
+Author: Me
+Author URI: http://joshwhitkin.com
+Version: 1
+*/ 
+
+
+
 .bg1{
     background-image:url("imgs/image-1.jpg") ;
     background-size: cover;
@@ -92,7 +103,7 @@
 
 .article-title{
     font-size: 1.4em;
-    font-family: 'Raleway' sans-serif;
+    font-family: 'Raleway' , sans-serif;
     font-weight: 800;
     padding-top: 28px;
     margin-bottom: 0px;
